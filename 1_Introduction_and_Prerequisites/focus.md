@@ -1,0 +1,3 @@
+- re: sinatra -> "what's going on under the hood?" (http r/r cycle & url parsing)
+  - staying high-level (what's a route? what's a template, how do they work together??)
+-
